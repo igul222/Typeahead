@@ -1,0 +1,5 @@
+4
+DEL u1
+ADD user u1 0.0 Bob sdf93' df
+ADD user u1 0.0 Bob sdf93' df
+QUERY 10 Bob
